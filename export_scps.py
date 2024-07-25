@@ -1,3 +1,5 @@
+##Run from the management account.  THis script will loop through all OU's, examine the attached SCP's and export all to a json file.
+
 import boto3
 import json
 
